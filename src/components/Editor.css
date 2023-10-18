@@ -1,0 +1,11 @@
+.editor-wrap .toolbar{
+    color: white;
+    background-color: rgb(95, 51, 99);
+}
+#editor{
+    height:90%;
+    padding: 5%;
+}
+.editor-wrap{
+    height:100%;
+}

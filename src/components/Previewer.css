@@ -1,0 +1,22 @@
+#preview{
+    height:90%;
+    padding:5%;
+    color:  rgb(236, 185, 252);
+    background-color: rgb(95, 51, 99);
+}
+.preview-wrap{
+    height: 100%;
+}
+.preview-wrap .toolbar{
+    color: black;
+}
+#preview img{
+    width: 80%;
+}
+#preview code{
+    background-color:black;
+}
+#preview a{
+    color: rgb(155, 14, 136);
+    text-decoration: none;
+}
